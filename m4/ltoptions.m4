@@ -1,1 +1,1 @@
-/n/sw/fasrcsw/apps/Core/libtool/2.4.6-fasrc01/share/aclocal/ltoptions.m4
+/home/gkovacs/.locinst/share/aclocal/ltoptions.m4
